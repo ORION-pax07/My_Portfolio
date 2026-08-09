@@ -29,7 +29,7 @@ const Header = () => {
             Contact me <Image src={assets.right_arrow_white} alt='' 
             className='w-4' /></a>
 
-            <a href="/Resume_Prathamesh_Rane.pdf" download 
+            <a href="/Resume_Prathamesh_Rane.pdf" download="Prathamesh_Rane_Resume.pdf" 
             className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2'>
                 my resume <Image src={assets.download_icon} alt='' className='w-4' /></a>
         </div>
